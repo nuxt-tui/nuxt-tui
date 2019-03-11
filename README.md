@@ -1,6 +1,5 @@
 # TOAST UI for Nuxt.JS
-> Simple [TOAST UI](TOAST-UI) integration in [Nuxt.JS](NUXT-JS)
+> Simple [TOAST UI](https://ui.toast.com/tui-editor/) integration in [Nuxt.JS](https://nuxtjs.org)
 
-<!-- 링크 -->
-[TOAST-UI]: https://ui.toast.com/tui-editor/
-[NUXT-JS]: https://nuxtjs.org
+## 👪 Nuxt TUI Family
+ - 🍞 📝 [Editor](https://github.com/nuxt-tui/editor)
