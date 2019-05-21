@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-tui",
+  "name": "tui.nuxt",
   "version": "0.0.0",
-  "description": "TOAST UI for Nuxt",
+  "description": "TOAST UI for Nuxt.JS",
   "author": "Kim Younggeon <mail@kyg.kr>",
   "license": "MIT",
   "keywords": [
@@ -9,10 +9,10 @@
     "nuxt-module",
     "toast-ui"
   ],
-  "homepage": "https://nuxt-tui.js.org",
-  "repository": "git+https://github.com/nuxt-tui/nuxt-tui.git",
+  "homepage": "https://tui-nuxt.js.org",
+  "repository": "git+https://github.com/tui-nuxt/nuxt-tui.git",
   "bugs": {
-    "url": "https://github.com/nuxt-tui/nuxt-tui/issues"
+    "url": "https://github.com/nuxt-tui/tui-nuxt/issues"
   },
   "main": "libs/module.js",
   "files": [
